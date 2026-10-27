@@ -12,7 +12,7 @@ Issues
 ------
 
 Please **do not use the issue tracker to ask questions**. We will be happy to help you
-on the [Nette forum](https://forum.nette.org) or chat with us on [Gitter](https://gitter.im/nette/nette).
+on the [Nette forum](https://forum.nette.org).
 
 Please try to be as detailed as possible in your bug report, so nobody has to ask
 you for more information.
