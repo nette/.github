@@ -2,4 +2,4 @@
 
 - Be nice.
 - And above all, be nice to open source developers.
-- The most beautiful "thank you" is a donation.
+- The most beautiful "thank you" is a [donation](https://github.com/sponsors/dg).

@@ -17,3 +17,8 @@ Version: ?.?.?
 
 ### Possible Solution
 ... Only if you have an idea how to fix it
+
+<!--
+Thank you for the report! Fixing bugs takes time, and I do it for free.
+If Nette is useful to you, you can support my work here: https://github.com/sponsors/dg ❤️
+-->

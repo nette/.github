@@ -7,6 +7,7 @@ Nette welcomes your contributions. There are several ways to help out:
 * Write test cases for open bug issues
 * Write fixes for open bug/feature issues, preferably with test cases included
 * Contribute to the [documentation](https://nette.org/en/writing)
+* Support the development of Nette on [GitHub Sponsors](https://github.com/sponsors/dg)
 
 Issues
 ------
