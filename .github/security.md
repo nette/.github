@@ -2,8 +2,8 @@
 
 To report a security issue, email [david@grudl.com](mailto:david@grudl.com) and include the word "SECURITY" in the subject line.
 
-I take security bugs very seriously. If you don't hear from me in a week then please ping me. Once I accept the report, the fix should be available and new version released within days. I will mark the bug as public after releasing a new version or declining the bug.
+I take security bugs very seriously. If you don't hear from me within a week, please ping me. Once I accept the report, a fix should be available and a new version released within days. I will make the bug public once a new version is released or the report is declined.
 
 ## Supported Versions
 
-I support the last published branch and the last development version (master).
+I support the latest released branch and the current development version (master).
