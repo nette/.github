@@ -6,4 +6,4 @@ I take security bugs very seriously. If you don't hear from me within a week, pl
 
 ## Supported Versions
 
-I support the latest released branch and the current development version (master).
+Each minor series of a package is supported for at least two years from its first stable release. The newest series receives all fixes, older supported series receive security fixes only. The supported series of all packages are listed at [nette.org/en/maintenance](https://nette.org/en/maintenance).
